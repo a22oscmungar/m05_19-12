@@ -16,6 +16,12 @@ public class TestM05 {
     public static void main(String[] args) {
         // TODO code application logic here
         //primera prueba
+        
+        int i=0;
+        while(i < 100){
+            System.out.println("Valor de i: "+i);
+            i++;
+        }
     }
     
 }
